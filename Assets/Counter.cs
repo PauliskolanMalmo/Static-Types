@@ -21,6 +21,7 @@ public class Counter : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
+
             //add 10 to score
             //When using static this can be removed
             //_score.score += 10;
